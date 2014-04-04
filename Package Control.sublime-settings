@@ -3,12 +3,14 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
 		"Comment-Snippets",
 		"EditorConfig",
 		"Emmet",
 		"Emmet Css Snippets",
+		"Genesis",
 		"Git",
 		"Gitignore",
 		"jQuery",
