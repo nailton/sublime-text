@@ -6,6 +6,9 @@
 		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
+		"CodeIgniter 2 ModelController",
+		"CodeIgniter Snippets",
+		"CodeIgniter Utilities",
 		"Comment-Snippets",
 		"EditorConfig",
 		"Emmet",
@@ -19,6 +22,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeTmpl",
-		"Terminal"
+		"Terminal",
+		"Xdebug Client"
 	]
 }
