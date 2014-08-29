@@ -6,16 +6,17 @@
 		"All Autocomplete",
 		"Alternative Autocompletion",
 		"AutoFileName",
+		"AutomaticFullscreen",
 		"Autoprefixer",
 		"BracketHighlighter",
 		"CodeIgniter 2 ModelController",
 		"CodeIgniter Snippets",
 		"CodeIgniter Utilities",
+		"ColorSchemeSelector",
 		"Comment-Snippets",
 		"EditorConfig",
 		"Emmet",
 		"Emmet Css Snippets",
-		"Genesis",
 		"Git",
 		"Gitignore",
 		"HTMLBeautify",
@@ -26,6 +27,7 @@
 		"SublimeCodeIntel",
 		"SublimeTmpl",
 		"Terminal",
+		"Theme - itg.flat",
 		"Xdebug Client"
 	]
 }

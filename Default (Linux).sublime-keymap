@@ -9,7 +9,7 @@
 "args":{"paths":[], "type":"production"}
 },
 { "keys": ["f2"], "command": "side_bar_rename" },
-{ "keys": ["ctrl+alt+f"], "command": "side_bar_find_files_path_containing" },
+{ "keys": ["ctrl+alt+b"], "command": "side_bar_find_files_path_containing" },
 { "keys": ["ctrl+alt+i"], "command": "reindent", "context":
 [
 { "key": "setting.auto_indent", "operator": "equal", "operand": true },
