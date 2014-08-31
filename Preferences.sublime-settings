@@ -79,6 +79,7 @@
 	"font_face": "SourceCodeProSemibold",
 	"font_options":
 	[
+		"DirectWrite"
 	],
 	"font_size": 13,
 	"gutter": true,
