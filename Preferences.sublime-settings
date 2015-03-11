@@ -32,7 +32,7 @@
 	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+	"color_scheme": "Packages/Predawn Monokai/Predawn Monokai.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -68,6 +68,7 @@
 		"*.db"
 	],
 	"find_selected_text": true,
+	"findreplace_small": true,
 	"fold_buttons": true,
 	"folder_exclude_patterns":
 	[
@@ -81,7 +82,7 @@
 	[
 		"DirectWrite"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -127,7 +128,8 @@
 	"spell_check": false,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "itg.flat.dark.sublime-theme",
+	"tabs_small": true,
+	"theme": "predawn-DEV.sublime-theme",
 	"trailing_spaces_include_current_line": false,
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
