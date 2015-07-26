@@ -87,9 +87,7 @@
 	"font_face": "SourceCodePro Semibold",
 	"font_options":
 	[
-		"DirectWrite",
 		"subpixel_antialias",
-		"gdi",
 		"gray_antialias"
 	],
 	"font_size": 13,
@@ -121,6 +119,7 @@
 	"match_brackets_square": true,
 	"match_selection": true,
 	"match_tags": true,
+	"material_theme_accent_red": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
 	"move_to_limit_on_up_down": false,
