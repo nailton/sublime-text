@@ -15,6 +15,7 @@
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Comment-Snippets",
+		"CTags",
 		"eCSStractor",
 		"EditorConfig",
 		"Emmet",
@@ -42,7 +43,6 @@
 		"SublimeCodeIntel",
 		"SublimeTmpl",
 		"Tag",
-		"Theme - Primer",
 		"WordPress",
 		"WordPress Developer Resources",
 		"WordPress Generate Salts"

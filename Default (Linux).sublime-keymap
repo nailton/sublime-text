@@ -36,12 +36,13 @@
  },
  { "keys": ["alt+d"], "command": "goto_definition" },
  { "keys": ["ctrl+space"], "command": "auto_complete" },
-  { "keys": ["ctrl+alt+k"], "command": "open_terminal" },
-  { "keys": ["ctrl+shift+alt+t"], "command": "open_terminal_project_folder" },
-  {"keys": ["ctrl+super+s"], "command": "reveal_in_side_bar"},
-  { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
-  { "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
-  {"keys": ["ctrl+alt+o"], "command": "sublime_tmpl",
-        "args": {"type": "php"}
-    }
-  ]
+ { "keys": ["ctrl+alt+k"], "command": "open_terminal" },
+ { "keys": ["ctrl+shift+alt+t"], "command": "open_terminal_project_folder" },
+ {"keys": ["ctrl+super+s"], "command": "reveal_in_side_bar"},
+ { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+ { "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
+ {"keys": ["ctrl+alt+o"], "command": "sublime_tmpl",
+ "args": {"type": "php"}
+ },
+ { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" }
+ ]
