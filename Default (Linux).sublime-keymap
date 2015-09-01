@@ -44,5 +44,10 @@
  {"keys": ["ctrl+alt+o"], "command": "sublime_tmpl",
  "args": {"type": "php"}
  },
- { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" }
+ { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+  { "keys": ["ctrl+e"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"} },
+  { "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
+  {
+        "keys": ["ctrl+shift+c"], "command": "side_bar_copy_path_absolute_from_project_encoded"
+    },
  ]
