@@ -1,5 +1,6 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -16,6 +17,7 @@
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Comment-Snippets",
+		"Comments Aware Enter",
 		"CTags",
 		"eCSStractor",
 		"EditorConfig",
@@ -35,6 +37,7 @@
 		"Laravel Forms Bootstrap Snippets",
 		"Markdown Preview",
 		"Material Theme",
+		"MySQL Snippets",
 		"Package Control",
 		"PHP Companion",
 		"PHP Completions Kit",
