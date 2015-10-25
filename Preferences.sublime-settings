@@ -39,7 +39,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Material Behave (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -87,13 +87,13 @@
 		"CVS",
 		".idea"
 	],
-	"font_face": "Source Code Pro Medium",
+	"font_face": "Fira Code",
 	"font_options":
 	[
 		"subpixel_antialias",
 		"gray_antialias"
 	],
-	"font_size": 14,
+	"font_size": 13,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
@@ -144,7 +144,7 @@
 	"spell_check": false,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Material Behave.sublime-theme",
 	"trailing_spaces_include_current_line": false,
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
