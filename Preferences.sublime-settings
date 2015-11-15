@@ -93,7 +93,7 @@
 		"subpixel_antialias",
 		"gray_antialias"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
@@ -126,6 +126,7 @@
 	"match_brackets_square": true,
 	"match_selection": true,
 	"match_tags": true,
+	"material_theme_contrast_mode": true,
 	"move_to_limit_on_up_down": false,
 	"open_files_in_new_window": true,
 	"overlay_scroll_bars": "enabled",
