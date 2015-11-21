@@ -39,7 +39,11 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
+<<<<<<< HEAD
+	"color_scheme": "Packages/User/tema/itg.dark.tmTheme",
+=======
 	"color_scheme": "Packages/User/SublimeLinter/Material Behave (SL).tmTheme",
+>>>>>>> 2eab9048468cd49448eb2721d99476bc869d141a
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -93,7 +97,7 @@
 		"subpixel_antialias",
 		"gray_antialias"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,

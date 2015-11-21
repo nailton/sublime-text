@@ -49,9 +49,12 @@
 		"Search WordPress Codex or QueryPosts",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+<<<<<<< HEAD
+=======
 		"SublimeLinter",
 		"SublimeLinter-php",
 		"SublimeTmpl",
+>>>>>>> 2eab9048468cd49448eb2721d99476bc869d141a
 		"Tag",
 		"WordPress",
 		"WordPress Developer Resources",
