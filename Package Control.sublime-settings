@@ -1,5 +1,6 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -7,7 +8,6 @@
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
-		"Alternative Autocompletion",
 		"AutoFileName",
 		"Autoprefixer",
 		"Blade Snippets",
@@ -27,7 +27,6 @@
 		"HTML-CSS-JS Prettify",
 		"HTMLBeautify",
 		"jQuery",
-		"Laravel 5 Artisan",
 		"Laravel 5 Snippets",
 		"Laravel Blade Highlighter",
 		"Laravel Bootstrapper Snippets",
@@ -41,7 +40,6 @@
 		"Search WordPress Codex or QueryPosts",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeTmpl",
 		"Tag",
 		"WordPress",
 		"WordPress Developer Resources",

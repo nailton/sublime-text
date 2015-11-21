@@ -1,0 +1,1 @@
+"shell_cmd": "php-cs-fixer fix $folder --level=psr2"
