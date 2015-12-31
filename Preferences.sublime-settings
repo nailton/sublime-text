@@ -39,7 +39,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/Material Behave (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Material Spacegray (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -87,7 +87,7 @@
 		"CVS",
 		".idea"
 	],
-	"font_face": "Fira Code",
+	"font_face": "Roboto Mono",
 	"font_options":
 	[
 		"subpixel_antialias",
@@ -115,7 +115,7 @@
 		"*.log"
 	],
 	"index_files": true,
-	"line_numbers": false,
+	"line_numbers": true,
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"margin": 0,
@@ -127,6 +127,7 @@
 	"match_selection": true,
 	"match_tags": true,
 	"material_theme_contrast_mode": true,
+	"material_theme_small_tab": true,
 	"move_to_limit_on_up_down": false,
 	"open_files_in_new_window": true,
 	"overlay_scroll_bars": "enabled",
@@ -145,7 +146,7 @@
 	"spell_check": false,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Material Behave.sublime-theme",
+	"theme": "Material Spacegray.sublime-theme",
 	"trailing_spaces_include_current_line": false,
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
