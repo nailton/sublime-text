@@ -1,6 +1,11 @@
 {
+	"autocomplete": true,
 	"passes":
 	[
 	],
-	"version": 2
+	"psr1": true,
+	"psr1_naming": true,
+	"psr2": true,
+	"readini": true,
+	"version": 3
 }
