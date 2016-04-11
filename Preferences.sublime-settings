@@ -37,9 +37,11 @@
 		"*.idea"
 	],
 	"bold_folder_labels": true,
-	"caret_style": "phase",
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_style": "blink",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Soda (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -51,7 +53,7 @@
 	"enable_hexadecimal_encoding": true,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
-	"fade_fold_buttons": true,
+	"fade_fold_buttons": false,
 	"fallback_encoding": "Western (Windows 1252)",
 	"file_exclude_patterns":
 	[
@@ -88,7 +90,7 @@
 		"CVS",
 		".idea"
 	],
-	"font_face": "Source Code Pro Medium",
+	"font_face": "Source code pro",
 	"font_options":
 	[
 		"subpixel_antialias",
@@ -118,8 +120,8 @@
 	],
 	"index_files": true,
 	"line_numbers": true,
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"margin": 0,
 	"match_brackets": true,
 	"match_brackets_angle": false,
