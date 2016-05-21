@@ -41,7 +41,7 @@
 	"caret_extra_top": 1,
 	"caret_style": "blink",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/github (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -90,7 +90,7 @@
 		"CVS",
 		".idea"
 	],
-	"font_face": "Source code pro",
+	"font_face": "mononoki",
 	"font_options":
 	[
 		"subpixel_antialias",
@@ -148,7 +148,7 @@
 	"spell_check": false,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "SoDaReloaded Light.sublime-theme",
+	"theme": "Lanzhou.sublime-theme",
 	"trailing_spaces_include_current_line": false,
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
