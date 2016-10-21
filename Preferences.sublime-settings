@@ -41,7 +41,7 @@
 	"caret_extra_top": 1,
 	"caret_style": "blink",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/github (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -90,13 +90,13 @@
 		"CVS",
 		".idea"
 	],
-	"font_face": "mononoki",
+	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"subpixel_antialias",
 		"gray_antialias"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
@@ -104,6 +104,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Package Control",
 		"phpfmt",
 		"Vintage"
 	],
@@ -157,6 +158,8 @@
 	"use_simple_full_screen": true,
 	"use_tab_stops": true,
 	"wide_caret": true,
+	"wombat_color_blue": true,
+	"wombat_dirty_bottom_bar_blue": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
 	"word_wrap": true,
 	"wrap_width": 80

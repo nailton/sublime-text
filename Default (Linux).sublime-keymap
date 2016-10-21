@@ -52,4 +52,8 @@
  { "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
   { "keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
   { "keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
+    { "keys": ["ctrl+alt+enter"], "command": "replace_all", "args": {"close_panel": true},
+     "context": [{"key": "panel", "operand": "replace"}, {"key": "panel_has_focus"}]
+  },
+
   ]

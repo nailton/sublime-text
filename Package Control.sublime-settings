@@ -3,6 +3,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Package Control"
 	],
 	"installed_packages":
 	[
@@ -53,6 +54,7 @@
 		"PHP Completions Kit",
 		"phpfmt",
 		"Placeholders",
+		"PxToEm",
 		"Random Everything",
 		"Search WordPress Codex or QueryPosts",
 		"SideBarEnhancements",
@@ -63,7 +65,6 @@
 		"Tag",
 		"Theme - Cobalt2",
 		"Theme - Lanzhou",
-		"Theme - SoDaReloaded",
 		"WordPress",
 		"WordPress Developer Resources"
 	]
